@@ -18,6 +18,8 @@ make deploy IMG=controller:latest
 make demo-m0
 ```
 
+To stand up a full demo on OpenShift (RHOAI, Connectivity Link, a model behind the gateway), see [docs/demo-cluster-setup.md](docs/demo-cluster-setup.md).
+
 ## Install via OLM
 
 ```bash
